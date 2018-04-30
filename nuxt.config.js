@@ -35,5 +35,6 @@ module.exports = {
       }
     }
   },
-  mode: 'spa'
+  mode: 'spa',
+  plugins: ['~/plugins/auth0.js']
 }
